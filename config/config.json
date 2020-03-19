@@ -1,0 +1,11 @@
+{
+    "port"      : 3001,
+    "authkey" 	: 123456,
+    "mongoUrl": "mongodb://admin:123456@3.6.221.79:27017/admin",
+    "database": "khel11",
+    "smsApiHostname": "api.msg91.com",
+    "smsTransactionRoutes": 4,
+    "smsSenderId": "KHELSP",
+    "smsAuthKey": "7250A9Q7Mesr5Nj5e58e37fP123",
+    "smsCountryCode": "91"
+}
